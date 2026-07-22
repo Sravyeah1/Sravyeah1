@@ -7,7 +7,7 @@
 
 # ✨ About Me
 
-Machine Learning enthusiast with experience across the complete ML lifecycle including data preprocessing, feature engineering,
+AI/ML enthusiast with experience across the complete ML lifecycle including data preprocessing, feature engineering,
 model development, hyperparameter tuning, evaluation, and deployment. Experienced in deep learning, NLP, transformer
 architectures, and molecular machine learning. Skilled in building scalable ML pipelines, GPU-accelerated training, and
 production-ready AI systems.
