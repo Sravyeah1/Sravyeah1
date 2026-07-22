@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sravya Devalla
 
-💻 Computer Science Engineer | 🤖 AI & Machine Learning Enthusiast | 🚀 Full-Stack Developer  
+Software Engineer • AI/ML Enthusiast • Open Source Learner
 📍 Hyderabad, India
 
 ---
