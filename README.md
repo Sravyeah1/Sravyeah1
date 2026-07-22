@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Sravya Devalla
 
 Software Engineer • AI/ML Enthusiast • Open Source Learner
+
 📍 Hyderabad, India
 
 ---
